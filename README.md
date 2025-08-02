@@ -9,7 +9,7 @@ This repository is a personal challenge to explore and simulate 20 fascinating m
 | Day | Topic | Status |
 |-----|-------------------------------|--------|
 | 1   | Infinite Monkey Theorem       | ✔️   |
-| 2   | Birthday Paradox              | [x]    |
+| 2   | Birthday Paradox              | ✔️    |
 | 3   | Monty Hall Problem            | [ ]    |
 | 4   | Buffon’s Needle (Estimate Pi) | [ ]    |
 | 5   | Coupon Collector’s Problem    | [ ]    |
